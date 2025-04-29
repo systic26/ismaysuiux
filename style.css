@@ -128,7 +128,7 @@ nav ul li a:hover {
 /* Journey Section */
 .about-wrapper {
 padding: 60px;
-background-color: #eee9dd;
+background-color: #ffffff;
 }
 
 .about-hero {
@@ -219,7 +219,7 @@ line-height: 1.7;
 }
 
 .section-title {
-  text-align: center;
+  text-align: left;
   font-size: 2rem;
   margin-bottom: 30px;
 }
@@ -254,8 +254,9 @@ line-height: 1.7;
 }
 
 body {
-  background-color: #eee9dd;
-  color: #111;
+  background-color: #f7fafc;
+  color: #2d3748;
+  line-height: 1.6;
 }
 
 /* Header */
@@ -484,7 +485,7 @@ nav a {
 
 /* MAIN SERVICE SECTION */
 .investment {
-  background: #f7f2e8;
+  background: #ffffff;
   padding: 80px 60px;
 }
 .investment h1 {
@@ -1156,5 +1157,5 @@ background-color: #333;
 nav ul li a.active-page {
   font-weight: bold;
   border-bottom: 2px solid white;
-  color: #42755eac;
+  color: #686969ac;
 }
